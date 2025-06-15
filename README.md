@@ -1,4 +1,4 @@
-# 🎙️ Audio-to-Audio Voice Agent
+# 🎙️ Audio Agent
 
 This project builds a real-time voice agent that:
 
